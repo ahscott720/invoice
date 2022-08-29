@@ -1,6 +1,6 @@
 import requests
 import xml.etree.cElementTree as ET #used to analyse xml
-import re #used to fetch numbers
+import re #Regular Expression: used to fetch numbers
 
 
 class GetInfo:
